@@ -36,7 +36,7 @@ function check()
 	{
 		 range=1;
 	 }
-	 if(correct>4) 
+	 if(correct>=4) 
 	 {
 		 range=0;
 	 }
